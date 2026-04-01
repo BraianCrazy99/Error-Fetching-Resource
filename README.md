@@ -1,10 +1,4 @@
-line height from the view settings menu.
 
-‎README.md.txt‎
-+39
-Lines changed: 39 additions & 0 deletions
-Original file line number	Diff line number	Diff line change
-@@ -0,0 +1,39 @@
 # 🏨 Sistema de Reservas em JavaScript
 Projeto simples simulando um sistema de reservas de hotel (PMS).
 ## 🚀 Funcionalidades
